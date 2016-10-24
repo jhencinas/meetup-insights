@@ -1,0 +1,29 @@
+{
+    "0": {
+	"id": 383411,
+	"name": "Big Data Analytics",
+	"urlkey": "big-data-analytics",
+	"group_count": 2476,
+	"member_count": 1172508,
+	"description": "Find out what's happening in Big Data Analytics Meetup groups around the world and start meeting up with the ones near you.",
+	"lang": "en_US"
+    },
+    "1": {
+	"id": 18062,
+	"name": "Big Data",
+	"urlkey": "big-data",
+	"group_count": 5300,
+	"member_count": 2541613,
+	"description": "Meet other local people interested in Big Data!",
+	"lang": "en_US"
+    },
+    "2": {
+	"id": 1482272,
+	"name": "Big Data Developers",
+	"urlkey": "big-data-developers",
+	"group_count": 121,
+	"member_count": 51315,
+	"description": "Find out what's happening in Big Data Developers Meetup groups around the world and start meeting up with the ones near you.",
+	"lang": "en_US"
+     }
+}
